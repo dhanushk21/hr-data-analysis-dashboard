@@ -3,7 +3,7 @@
 An end-to-end data analytics project using **SQL**, **Excel**, and **Power BI** to track, analyze, and optimize workforce metrics. This project transforms raw HR data into actionable organizational insights, focusing on employee attrition, demographics, and performance metrics.
 
 ## 🖼️ Dashboard Preview
-
+<img src="dashboard_preview.png" alt="HR Data Analysis Dashboard Preview" width="100%" />
 
 ## 🛠️ Project Overview & Workflow
 Instead of just building a dashboard, this project demonstrates a complete data analyst workflow across three major tools:
